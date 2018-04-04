@@ -2,9 +2,10 @@
  * @Author: X_Heart 
  * @Date: 2017-05-23 16:05:42 
  * @Last Modified by: wangxiaoxin
- * @Last Modified time: 2018-03-23 14:01:09
+ * @Last Modified time: 2018-04-04 10:40:51
  * @description: 路由
  */
+'use strict'
 const fs = require('fs')
 const path = require('path')
 const formidable = require('formidable')

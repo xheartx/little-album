@@ -1,9 +1,10 @@
 /*
  * @Author: X_Heart 
  * @Date: 2017-05-23 17:16:09 
- * @Last Modified by: X_Heart
- * @Last Modified time: 2017-05-24 11:20:38
+ * @Last Modified by: wangxiaoxin
+ * @Last Modified time: 2018-04-04 10:41:03
  */
+'use strict'
 const fs = require('fs')
 const path = require('path')
 // 获取所有文件夹
